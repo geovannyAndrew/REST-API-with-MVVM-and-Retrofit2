@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/REST-API-with-MVVM-and-Retrofit2.iml" filepath="$PROJECT_DIR$/.idea/REST-API-with-MVVM-and-Retrofit2.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApiMVVM.iml" filepath="$PROJECT_DIR$/RestApiMVVM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
