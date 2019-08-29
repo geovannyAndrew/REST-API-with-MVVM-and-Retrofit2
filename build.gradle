@@ -23,7 +23,7 @@ allprojects {
 }
 
 
-//A change
+//A change added another
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
